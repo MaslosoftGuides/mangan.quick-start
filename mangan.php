@@ -12,7 +12,7 @@ use Maslosoft\Mangan\Mangan;
 $config = [
 	'mongodb' => [
 		'class' => Mangan::class,
-		// Check for modifications - other properties
+		// Database name
 		'dbName' => 'quick-start',
 	]
 ];
