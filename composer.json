@@ -1,0 +1,10 @@
+{
+    "require": {
+        "maslosoft/mangan": "^4"
+    },
+	"autoload": {
+		"psr-4": {
+			"Maslosoft\\Guides\\Mangan\\": "src"
+		}
+	}
+}
