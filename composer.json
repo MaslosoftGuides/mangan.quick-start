@@ -1,6 +1,6 @@
 {
     "require": {
-        "maslosoft/mangan": "^4"
+        "maslosoft/mangan": "^7"
     },
 	"autoload": {
 		"psr-4": {
